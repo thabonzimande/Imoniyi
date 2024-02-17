@@ -8,7 +8,6 @@
   - Data visualization📊
   - Excel
   - PowerBi
-  - Tableau
   - SQL
   - Data cleaning.
 - ⭐ Fun fact: I love learning new things and I enjoy challenges because it make me think critically.
